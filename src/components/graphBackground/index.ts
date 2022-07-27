@@ -1,0 +1,1 @@
+export {default as GraphBg} from '@src/components/graphBackground/index.svelte'
